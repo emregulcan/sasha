@@ -25,7 +25,7 @@ Install-Package Sasha.Exceptions
 
         
 ### Sasha.Exceptions Requirements
-Sasha.Exceptions written in .NET Framework 3.0 , so you can use it .NET Framework 3.0 and below.
+Sasha.Exceptions written in .NET Framework 3.0 , so you can use it .NET Framework 3.0 and above.
 
 
 ### Sasha.Exceptions Install
